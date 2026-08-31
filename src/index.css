@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F4F3EF;
+    color: #1A1A1A;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+  }
+  * { box-sizing: border-box; }
+  h1, h2, h3, h4 { letter-spacing: -0.01em; }
+}
+
+@layer utilities {
+  .font-mono-bis { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  .scrollbar-thin::-webkit-scrollbar { width: 5px; }
+  .scrollbar-thin::-webkit-scrollbar-track { background: transparent; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 3px; }
+  .scrollbar-page::-webkit-scrollbar { width: 6px; }
+  .scrollbar-page::-webkit-scrollbar-track { background: #EDEBE5; }
+  .scrollbar-page::-webkit-scrollbar-thumb { background: #C5C0B6; border-radius: 3px; }
+  .shadow-card { box-shadow: 0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05); }
+  .shadow-elevated { box-shadow: 0 2px 8px rgba(0,0,0,0.10), 0 1px 3px rgba(0,0,0,0.06); }
+  .shadow-modal { box-shadow: 0 8px 32px rgba(0,0,0,0.18); }
+  .inset-ring { box-shadow: inset 0 0 0 2px #16294D; }
+  /* Sidebar active indicator */
+  .nav-active { position: relative; }
+  .nav-active::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 4px; bottom: 4px;
+    width: 3px;
+    background: #F0A500;
+    border-radius: 0 2px 2px 0;
+  }
+}

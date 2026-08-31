@@ -1,0 +1,109 @@
+GOVERNMENT OF INDIA
+MINISTRY OF ROAD TRANSPORT & HIGHWAYS
+NATIONAL HIGHWAYS AUTHORITY OF INDIA (NHAI)
+
+TENDER DOCUMENT
+Tender No: NHAI/NH-48/LED/2026/0891
+
+SUPPLY AND INSTALLATION OF LED STREET LIGHTING SYSTEM
+National Highway 48 — Delhi to Mumbai Corridor
+Package: Karnataka Stretch (Km 1180 to Km 1340)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: TECHNICAL SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 LED STREET LIGHT LUMINAIRES
+
+The contractor shall supply and install LED street light luminaires conforming to the
+following technical specifications for outdoor road lighting on national highways.
+
+4.1.1 Electrical Specifications
+- Rated Wattage: 100W (± 5%)
+- Input Voltage: 230V AC, single phase
+- Frequency: 50 Hz
+- Power Factor: minimum 0.95 (lagging)
+- Total Harmonic Distortion (THD): less than 10%
+- Driver efficiency: minimum 88%
+- Surge protection: 10 kV (line to ground), 4 kV (line to line)
+
+4.1.2 Optical / Photometric Specifications
+- Minimum luminous flux output: 10,000 lm
+- Minimum system efficacy: 100 lm/W
+- Colour Temperature (CCT): 5700K ± 500K (cool white)
+- Colour Rendering Index (CRI): minimum Ra 70
+- Beam angle: Type II-M road lighting distribution
+- Maintained illuminance (ME2 class): average 10 lux minimum on carriageway
+
+4.1.3 Mechanical and Protection Specifications
+- Ingress Protection Rating: IP65 minimum (dust tight, protected against water jets)
+- IK Rating: IK08 minimum (impact resistance)
+- Housing material: die-cast aluminium alloy, powder coated
+- Finish: dark grey powder coat, minimum 60 microns DFT
+- Operating ambient temperature: -10°C to +50°C
+- Pole mounting: suitable for 60 mm diameter pole top or side bracket
+- Weight: not exceeding 8 kg per luminaire
+
+4.1.4 Lifetime and Reliability
+- Rated lifetime: L70B50 > 50,000 hours at 25°C ambient
+- LED source: high-power SMD LEDs, binned for colour consistency
+- No mercury content — RoHS compliant
+
+4.2 MANDATORY CERTIFICATION REQUIREMENTS
+
+All LED street light luminaires must carry valid BIS certification mark.
+The product is covered under Quality Control Order (QCO) issued by DPIIT.
+Vendors must submit valid BIS licence number at time of bid submission.
+
+Reference Standards to be complied with:
+- IS 10322 (Part 5/Sec 4): Luminaires for road and street lighting
+- IS 16102 (Part 1): Self-ballasted LED lamps — safety requirements
+- IS 1944 (Part 1): Code of practice for lighting of public thoroughfares
+
+4.3 CIVIL WORKS — POLES AND FOUNDATIONS
+
+4.3.1 Galvanised Steel Poles
+- Height: 9 metre (effective mounting height)
+- Pole shaft: tapered octagonal, 4 mm wall thickness
+- Hot dip galvanised as per IS 2629
+- Foundation: M20 grade reinforced concrete as per IS 456:2000
+- Anchor bolts: 4 nos., 20 mm dia, 600 mm length, 8.8 grade
+
+4.3.2 Underground Cabling
+- Power supply cable: PVC insulated, armoured, 1100V grade
+- Cable size: 4-core 16 sq mm for branch circuits
+- Reference: IS 694:2010 (PVC insulated cables up to 1100V)
+- Conduit: 50mm dia HDPE conduit for cable protection (IS 4984:2016)
+
+4.4 CONTROL SYSTEM
+
+- Dimming control: 0-10V or DALI protocol
+- Automatic switching: photocell + time-clock dual control
+- Centralised monitoring: SCADA/CMS compatible
+- Each luminaire to have individual GPS-tagged monitoring point
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: QUALITY ASSURANCE AND TESTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 Pre-dispatch inspection mandatory at manufacturer's facility.
+5.2 Third-party testing from NABL-accredited laboratory required.
+5.3 Type test reports not older than 3 years to be submitted.
+5.4 All test reports to reference IS 10322 (Part 5/Sec 4):2018.
+5.5 IP65 test certificate as per IS/IEC 60529 mandatory.
+5.6 Photometric test report (LM-79 equivalent) mandatory.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: BILL OF QUANTITIES (SUMMARY)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Item  Description                               Qty    Unit
+1     LED street light luminaire 100W IP65       3,200  Nos
+2     9m GI pole with foundation                 3,200  Nos
+3     PVC armoured cable 4Cx16 sqmm 1100V        48,000 Rm
+4     HDPE conduit 50mm                          48,000 Rm
+5     Control panel with SCADA                  160    Nos
+6     Commissioning and testing                  1      LS
+
+END OF TECHNICAL SPECIFICATION SECTION
+Document Reference: NHAI-TECH-LED-2026 Rev 2

@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: manak_db
+    environment:
+      POSTGRES_USER: manak
+      POSTGRES_PASSWORD: manak
+      POSTGRES_DB: manak_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U manak -d manak_ai"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build: ./backend
+    container_name: manak_backend
+    environment:
+      DATABASE_URL: postgresql://manak:manak@db:5432/manak_ai
+      ABSTAIN_THRESHOLD: "40"
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./backend/data:/backend/data
+
+volumes:
+  pgdata:

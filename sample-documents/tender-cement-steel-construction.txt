@@ -1,0 +1,149 @@
+CENTRAL PUBLIC WORKS DEPARTMENT (CPWD)
+GOVERNMENT OF INDIA, MINISTRY OF HOUSING & URBAN AFFAIRS
+
+TENDER NOTICE AND TECHNICAL SPECIFICATIONS
+NIT No: CPWD/DZ-III/CC/2026/1147
+
+CONSTRUCTION OF MULTI-STOREY GOVERNMENT OFFICE COMPLEX
+Location: Sector 12, Dwarka, New Delhi — 110075
+Estimated Cost: Rs. 47.80 Crores
+Completion Period: 30 months from date of commencement
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART B: MATERIAL SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+B.1 CEMENT
+
+B.1.1 Ordinary Portland Cement (OPC)
+All structural concrete shall use Ordinary Portland Cement 53 grade conforming
+strictly to IS 269:2015 (Ordinary Portland Cement — Specification).
+
+Technical requirements:
+- Grade: OPC 53
+- Minimum compressive strength at 28 days: 53 MPa
+- Initial setting time: not less than 30 minutes
+- Final setting time: not more than 600 minutes
+- Fineness (specific surface): minimum 225 m²/kg (Blaine)
+- Soundness (Le Chatelier): maximum expansion 10 mm
+- Loss on ignition: maximum 4%
+- Sulphate content (as SO₃): maximum 3.5%
+
+B.1.2 Portland Pozzolana Cement (PPC)
+For non-structural work, plastering, and brickwork, PPC conforming to
+IS 1489 (Part 1):2015 may be used.
+- Flyash content: 15% to 35% by mass of blended cement
+- 28-day compressive strength: minimum 33 MPa
+
+B.1.3 Storage and Handling
+- Cement bags to be stored in weatherproof godowns on raised wooden platforms
+- Maximum stacking height: 10 bags
+- FIFO (first in first out) to be strictly followed
+- Each consignment to be accompanied by manufacturer's test certificate
+
+B.2 STRUCTURAL STEEL
+
+B.2.1 High Strength Deformed (HSD) Steel Bars — TMT Bars
+Reinforcement steel shall conform to IS 1786:2008 (High strength deformed steel bars
+and wires for concrete reinforcement).
+
+Grade and properties:
+- Grade: Fe 500D (preferred) or Fe 415
+- Yield strength (0.2% proof stress): minimum 500 MPa for Fe 500D
+- Ultimate tensile strength: minimum 565 MPa for Fe 500D
+- Elongation at fracture: minimum 16% for Fe 500D
+- Bend test: no crack on bending through 180° over mandrel diameter = 3d (d≤20mm)
+- Rebend test: mandatory for Fe 500D
+- Carbon equivalent: maximum 0.42% (for weldability)
+- BIS certification mark mandatory on each bundle tag
+
+B.2.2 Structural Steel Sections
+Rolled steel sections (beams, columns, angles) for steel framework shall conform to
+IS 2062:2011 Grade E250 or higher.
+Design of steel structures per IS 800:2007 (General construction in steel).
+
+B.3 CONCRETE
+
+B.3.1 Mix Design and Grade Requirements
+All structural concrete shall be designed as per IS 10262:2019 (Concrete mix
+proportioning — Guidelines) and shall comply with IS 456:2000 (Plain and reinforced
+concrete — Code of practice).
+
+Minimum grades:
+- Foundations (isolated/combined): M25
+- Basement retaining walls: M30
+- Columns (ground to 5th floor): M35
+- Columns (6th floor and above): M30
+- Beams and slabs: M25
+- Staircase: M25
+- Grade slab: M20 (with steel fibre reinforcement)
+
+B.3.2 Coarse and Fine Aggregates
+All aggregates shall conform to IS 383:2016 (Coarse and fine aggregate — Specification).
+- Coarse aggregate: 20mm and 10mm graded crushed stone
+- Fine aggregate: Zone II river sand or manufactured sand (M-Sand)
+- Water absorption of coarse aggregate: maximum 2%
+- Flakiness index: maximum 30%
+- Los Angeles abrasion value: maximum 35%
+
+B.3.3 Water for Mixing
+Potable water conforming to IS 456:2000 provisions.
+pH value: between 6 and 8.5.
+
+B.4 MASONRY WORK
+
+B.4.1 Burnt Clay Bricks
+Common burnt clay bricks for partition walls and non-load-bearing masonry shall
+conform to IS 1077:1992 (Common burnt clay building bricks — Specification).
+- Class designation: Class 75 (compressive strength 7.5 MPa minimum)
+- Water absorption: not more than 20% by mass (24-hour cold immersion)
+- Efflorescence: slight or nil
+- Dimensions: 190 x 90 x 90 mm (modular) or 230 x 110 x 75 mm (conventional)
+
+B.5 WATER SUPPLY AND PLUMBING
+
+Internal water supply piping:
+- GI pipes (galvanised iron): IS 1239 (Part 1):2004 — medium class
+- CPVC pipes for hot water lines: IS 15778:2007
+- HDPE pipes for underground supply: IS 4984:2016, PE 100 grade
+
+B.6 ELECTRICAL WORKS (REFERENCE ONLY)
+
+Electrical installation shall conform to:
+- IS 732:1989 — Code of practice for electrical wiring installations
+- IS 3043:1987 — Code of practice for earthing
+- Internal wiring cables: IS 694:2010 — PVC insulated cables 1100V
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART C: QUALITY CONTROL AND TESTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+C.1 All materials shall carry BIS certification mark (ISI mark) wherever applicable
+    under mandatory QCO / BIS certification scheme.
+
+C.2 Mandatory IS-marked materials for this project:
+    - OPC 53 Cement (IS 269:2015) — BIS mark mandatory
+    - HSD Steel Bars (IS 1786:2008) — BIS mark mandatory
+    - GI Pipes (IS 1239:2004) — BIS mark mandatory
+    - Burnt clay bricks (IS 1077:1992) — BIS mark mandatory
+
+C.3 Concrete cube testing: 3 cubes per 30 m³ of concrete poured, tested at 7 days
+    and 28 days as per IS 516:1959.
+
+C.4 Steel bar testing: minimum 2 samples per heat lot, tensile and bend test.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BILL OF QUANTITIES — MATERIAL SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Item  Material                    Grade/Type          Approx Qty
+1     OPC Cement                  IS 269:2015, 53G    4,200 MT
+2     HSD Steel (TMT Bars)        IS 1786:2008, Fe500D 780 MT
+3     Coarse Aggregate (20mm)     IS 383:2016         6,500 CuM
+4     Fine Aggregate (river sand) IS 383:2016         4,200 CuM
+5     Burnt clay bricks           IS 1077:1992, Cl.75 8,50,000 Nos
+6     GI pipes (25mm-100mm)       IS 1239:2004        2,800 Rm
+7     HDPE pipes 110mm            IS 4984:2016        650 Rm
+
+END OF MATERIAL SPECIFICATIONS
+Document: CPWD-SPEC-CC-2026-1147 Rev 1

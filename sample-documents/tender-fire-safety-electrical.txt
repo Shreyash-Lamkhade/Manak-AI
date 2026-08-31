@@ -1,0 +1,190 @@
+AIRPORT AUTHORITY OF INDIA
+MINISTRY OF CIVIL AVIATION, GOVERNMENT OF INDIA
+
+REQUEST FOR PROPOSAL (RFP)
+RFP No: AAI/HYD/ELEC-FIRE/2026/0334
+
+SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF
+FIRE DETECTION & ALARM SYSTEM AND ELECTRICAL INFRASTRUCTURE
+Rajiv Gandhi International Airport — Terminal 2 Expansion
+Hyderabad — 500108, Telangana
+
+Estimated Value: Rs. 12.40 Crores
+Completion Period: 18 months
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VOLUME II: TECHNICAL SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHAPTER 1: FIRE DETECTION AND ALARM SYSTEM (FDAS)
+
+1.1 SCOPE OF WORK
+
+The contractor shall design, supply, install, test, and commission a complete
+addressable Fire Detection and Alarm System covering approximately 38,000 sq.m of
+the T2 terminal building, including:
+- Departure and arrival halls
+- Aerobridges (6 nos.)
+- Baggage handling area
+- Fuel farm control room
+- All service corridors and plant rooms
+
+1.2 STANDARDS AND CODES OF COMPLIANCE
+
+The FDAS shall be designed and installed strictly in accordance with:
+- IS 2189:2008 — Selection, installation and maintenance of automatic fire detection
+  and fire alarm systems (primary reference standard)
+- IS 15105:2002 — Design and installation of fixed automatic sprinkler fire
+  extinguishing systems
+- IS 1646:1997 — Code of practice for fire safety of buildings (general)
+- NBC 2016 Part 4 — Fire and Life Safety
+- DGCA CAR Section 9 for aerodrome fire safety
+
+1.3 FIRE DETECTION EQUIPMENT SPECIFICATIONS
+
+1.3.1 Addressable Smoke Detectors (Optical)
+- Technology: Light scattering photoelectric principle
+- Sensitivity: 0.1 to 2.0% obs/m, field-adjustable
+- Operating voltage: 17V to 28V DC (loop powered)
+- Operating temperature range: -10°C to +55°C
+- Ingress protection: IP43 minimum
+- Alarm indication: built-in LED, 360° visible
+- Quantity required: approximately 2,400 nos.
+
+1.3.2 Addressable Heat Detectors (Rate-of-Rise + Fixed Temperature)
+- Fixed temperature: 57°C (Class A1) and 90°C (Class A2)
+- Rate-of-rise: 8.5°C per minute
+- For use in kitchen, baggage hold, engine test cells
+- IP54 rating
+- Quantity: approximately 480 nos.
+
+1.3.3 Addressable Manual Call Points (Break Glass)
+- Operating voltage: 17-28V DC loop powered
+- Reset: requires key or tool
+- Colour: red RAL 3000
+- Protection: IP54, with break-glass element
+- Spacing: not more than 30m travel distance
+- Quantity: 340 nos.
+
+1.3.4 Fire Alarm Control Panel (FACP)
+- Type: Fully addressable, loop-based, EN 54 compatible
+- Capacity: minimum 4 loops, expandable to 8 loops
+- Each loop: minimum 250 addressable devices
+- Display: 10" colour touch screen with floor plan annunciation
+- Battery backup: 72 hours standby + 30 minutes alarm
+- Battery: sealed lead-acid, maintenance-free
+- Output: potential-free contacts for BMS integration
+- GSM dialler for remote alarm notification
+- Enclosure: IP30 minimum, wall-mounted metallic cabinet
+
+1.4 AUTOMATIC SPRINKLER SYSTEM
+
+Design per IS 15105:2002:
+- Hazard classification: Ordinary Hazard Group 2 (OH2) for passenger areas
+- Sprinkler spacing: maximum 12 sq.m per sprinkler (OH2)
+- Operating pressure at sprinkler head: minimum 0.5 bar
+- Sprinkler heads: pendant type, 68°C glass bulb, K-factor 80
+- Main supply pipe: MS ERW as per IS 1239 (Part 1):2004 — heavy class
+- Branch pipes: CPVC Schedule 40 or MS galvanised
+- Flow and pressure test: mandatory hydrotest at 1.5x working pressure for 2 hours
+- Water storage tank: 45,000 litres dedicated fire reserve
+- Fire pumps: electric main pump + diesel standby pump + jockey pump
+
+1.5 FIRE SUPPRESSION — SPECIAL HAZARD AREAS
+
+For fuel farm, substation, and UPS rooms:
+- Clean agent suppression system: FM-200 (HFC-227ea) or NOVEC 1230
+- Design concentration: 7% by volume for class C fires
+- Discharge time: within 10 seconds
+- System design per NFPA 2001 and IS guidelines
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHAPTER 2: ELECTRICAL INFRASTRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 CABLES AND WIRING
+
+2.1.1 Power Cables (LT — up to 1100V)
+All LT power cables for general electrical distribution to conform to:
+- IS 694:2010 — PVC insulated cables for working voltages up to 1100V
+  (for fixed wiring, 2.5 sq mm to 16 sq mm)
+- IS 1554 (Part 1):1988 — PVC insulated (heavy duty) electric cables
+  (for feeder cables, 25 sq mm and above)
+
+Cable sizing criteria:
+- Current carrying capacity as per IS 3961
+- Voltage drop not to exceed 3% (lighting circuits) or 5% (power circuits)
+- All cable runs in MS conduit or cable trays
+- PVC insulation colour code as per IS 732:1989
+
+2.1.2 Fire Survival Cables (Enhanced Fire Performance)
+For critical life safety circuits (FDAS, emergency lighting, fire pumps):
+- Fire resistant cables: 2-hour fire resistance rating
+- Halogen-free low smoke (HFLS) type
+- Conforming to IS 17048:2018
+
+2.2 EARTHING
+
+The earthing system shall be designed and installed as per:
+- IS 3043:1987 — Code of practice for earthing
+- Earthing system: TN-S throughout
+- Earth electrode: copper-bonded steel rod, 2.4m length, 14.2mm diameter
+- Earth resistance: not exceeding 1 ohm for main MDB earth
+- Earth continuity conductor: minimum 50% of phase conductor cross-section
+
+2.3 LIGHTING
+
+2.3.1 Terminal Hall Lighting
+- LED luminaires for indoor use: IP40 minimum
+- Illuminance: minimum 500 lux (maintained) at working plane
+- UGR: less than 19 for occupied areas
+- Emergency lighting: minimum 1 lux for 3 hours on mains failure
+- Reference: IS 1944 (Part 1) for illuminance recommendations
+
+2.3.2 Apron and Taxiway Lighting
+- Flood lighting: LED type, IP65, minimum 100W per fitting
+- Pole height: 20 metres
+- Reference: IS 10322 (Part 5/Sec 4):2018 for road/area luminaires
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHAPTER 3: MANDATORY CERTIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 All electrical equipment and cables shall carry valid BIS (ISI) certification mark.
+
+3.2 Critical certification requirements:
+    EQUIPMENT                    STANDARD
+    Fire alarm control panel     IS 2189:2008 (BIS certified)
+    LT power cables up to 1100V  IS 694:2010 (BIS ISI mark mandatory)
+    Heavy duty cables            IS 1554 (Part 1):1988
+    LED luminaires (outdoor)     IS 10322 (Part 5/Sec 4):2018
+    LED luminaires (indoor)      IS 10322 (various parts)
+    Sprinkler pipework (MS)      IS 1239 (Part 1):2004
+
+3.3 Vendor Qualification
+- Minimum 5 years experience in airport fire safety installations
+- Completed at least 3 similar projects above Rs. 5 Cr value
+- Valid electrical contractor licence (Class I or above) from State Electricity Board
+- OEM authorisation certificate for fire alarm panel brand offered
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHAPTER 4: BILL OF QUANTITIES — KEY ITEMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Item  Description                                     Qty    Unit
+1     Addressable smoke detector (optical)            2,400  Nos
+2     Addressable heat detector                        480  Nos
+3     Manual call point (break glass)                  340  Nos
+4     Fire Alarm Control Panel (8-loop, addressable)    4  Nos
+5     Automatic sprinkler heads 68°C pendant           1,800 Nos
+6     MS ERW pipe 100mm heavy class (IS 1239)         2,200  Rm
+7     PVC insulated cable 4Cx6 sqmm 1100V             18,000 Rm
+8     PVC insulated cable 2Cx2.5 sqmm 1100V           22,000 Rm
+9     LED flood light 100W IP65 (apron)               480   Nos
+10    Earth electrode copper bonded 2.4m              240   Nos
+11    MS conduit 25mm dia                             35,000 Rm
+12    Cable tray 150mm wide (perforated)              12,000 Rm
+
+END OF TECHNICAL SPECIFICATIONS
+Document Reference: AAI-HYD-T2-ELEC-SPEC-2026 Rev 3
+Prepared by: Design Consultants — EPC Division

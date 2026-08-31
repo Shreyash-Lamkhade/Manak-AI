@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ministry of Commerce & Industry",
+    "officer_name": "Rajesh Kumar",
+    "designation": "Senior Procurement Officer"
+  },
+  {
+    "id": 2,
+    "name": "Ministry of Power",
+    "officer_name": "Amit Sharma",
+    "designation": "Director of Standards"
+  },
+  {
+    "id": 3,
+    "name": "Ministry of Consumer Affairs",
+    "officer_name": "Priya Singh",
+    "designation": "Quality Controller"
+  },
+  {
+    "id": 4,
+    "name": "Ministry of Textiles",
+    "officer_name": "Anil Gupta",
+    "designation": "Technical Advisor"
+  },
+  {
+    "id": 5,
+    "name": "Ministry of Jal Shakti",
+    "officer_name": "Sunita Verma",
+    "designation": "Chief Engineer"
+  }
+]

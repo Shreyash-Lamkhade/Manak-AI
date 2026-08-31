@@ -1,0 +1,1296 @@
+[
+  {
+    "is_number": "IS 456:2000",
+    "title": "Plain and Reinforced Concrete - Code of Practice",
+    "category": "Construction",
+    "sub_category": "Concrete",
+    "scope": "This standard covers the general requirements for the design and construction of plain and reinforced concrete structures used in building and civil engineering works. It specifies material requirements, mix design procedures, cover to reinforcement, and durability requirements for structures exposed to various environmental conditions. It also covers methods for structural design including working stress and limit state methods. This code of practice is intended for designers, contractors, and site engineers engaged in concrete construction.",
+    "specifications": {
+      "min_compressive_strength_mpa": "20",
+      "max_water_cement_ratio": "0.55",
+      "min_cement_content_kgm3": "300",
+      "nominal_cover_mm": "40",
+      "grade_designation": "M20"
+    },
+    "normative_references": ["IS 269:2015", "IS 10262:2019", "IS 516:2014", "IS 383:2016"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2000",
+    "last_amended": "2021-03-15",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2002", "description": "Revision of exposure conditions table"},
+      {"amendment_number": "Amendment 2", "date": "2005", "description": "High strength concrete provisions added"},
+      {"amendment_number": "Amendment 3", "date": "2007", "description": "Corrosion protection clauses updated"},
+      {"amendment_number": "Amendment 4", "date": "2021", "description": "Clarification of durability clauses"}
+    ],
+    "source_excerpt": "\"This standard covers the general requirements for the design and construction of plain and reinforced concrete structures.\""
+  },
+  {
+    "is_number": "IS 269:2015",
+    "title": "Ordinary Portland Cement - Specification (OPC 33, 43, 53 Grade)",
+    "category": "Construction",
+    "sub_category": "Cement and Binders",
+    "scope": "This standard specifies the requirements for ordinary Portland cement (OPC) of 33, 43, and 53 grade. It covers chemical composition requirements, physical requirements including fineness, setting time, and compressive strength, and specifies the sampling and testing procedures. This specification is applicable to cement intended for general construction including concrete, mortar, and plastering applications. The standard also covers packing and marking requirements.",
+    "specifications": {
+      "grade": "53",
+      "min_compressive_strength_mpa": "53",
+      "initial_setting_time_min": "30",
+      "final_setting_time_max_min": "600",
+      "fineness_percent": "9",
+      "soundness_mm": "10"
+    },
+    "normative_references": ["IS 456:2000", "IS 4031:2014"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2023-01-01",
+    "version": "2015",
+    "last_amended": "2020-08-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2017", "description": "Clinker content requirement added"},
+      {"amendment_number": "Amendment 2", "date": "2020", "description": "Sulphate limit revision"}
+    ],
+    "source_excerpt": "\"This standard specifies the requirements for ordinary Portland cement of 33, 43 and 53 grades, including chemical and physical requirements.\""
+  },
+  {
+    "is_number": "IS 10262:2019",
+    "title": "Concrete Mix Proportioning - Guidelines",
+    "category": "Construction",
+    "sub_category": "Concrete",
+    "scope": "This standard provides guidelines for the selection of mix proportions for concrete to achieve the specified strength and durability. It covers procedures for both nominal mix and design mix concrete, with emphasis on fly ash and ground granulated blast furnace slag incorporation. The standard provides step-by-step procedures for determining water-cement ratio, aggregate proportions, and admixture dosage. It is intended to be used in conjunction with IS 456 for structural concrete.",
+    "specifications": {
+      "max_water_cement_ratio": "0.45",
+      "min_cement_content_kgm3": "350",
+      "target_strength_mpa": "26.6"
+    },
+    "normative_references": ["IS 456:2000", "IS 383:2016"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2019",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Recycled aggregates provisions updated"}
+    ],
+    "source_excerpt": "\"This standard covers the guidelines for proportioning concrete mixes for a given strength and durability.\""
+  },
+  {
+    "is_number": "IS 383:2016",
+    "title": "Coarse and Fine Aggregate for Concrete - Specification",
+    "category": "Construction",
+    "sub_category": "Concrete",
+    "scope": "This standard specifies the requirements for coarse and fine aggregates for use in plain and reinforced concrete. It covers natural aggregates, crushed aggregates, and blended aggregates, specifying grading requirements, limits on deleterious materials, and physical requirements. The standard defines the various zones of grading for fine aggregate and nominal sizes for coarse aggregate. It also includes methods for sampling and testing of aggregates.",
+    "specifications": {
+      "max_size_mm": "20",
+      "water_absorption_percent": "2",
+      "specific_gravity": "2.6"
+    },
+    "normative_references": ["IS 456:2000", "IS 2386:2016"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2016",
+    "last_amended": "2019-06-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Recycled aggregate clause added"}
+    ],
+    "source_excerpt": "\"This standard specifies the requirements for aggregates, both coarse and fine, for use in concrete.\""
+  },
+  {
+    "is_number": "IS 2386:2016",
+    "title": "Methods of Test for Aggregates for Concrete",
+    "category": "Construction",
+    "sub_category": "Concrete",
+    "scope": "This standard specifies the methods of testing aggregates for concrete. It covers test methods for particle size distribution (grading), specific gravity, water absorption, and bulk density. The standard also covers tests for the mechanical properties of aggregates including aggregate crushing value and impact value. It provides standard laboratory procedures for evaluating the quality of aggregates for use in concrete.",
+    "specifications": {
+      "test_methods": "Grading, specific gravity, crushing value",
+      "max_aggregate_size_mm": "40"
+    },
+    "normative_references": ["IS 383:2016"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2016",
+    "last_amended": "2019-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Recycled aggregate test methods added"}
+    ],
+    "source_excerpt": "\"Specifies the methods of test for aggregates for concrete, including grading and mechanical properties.\""
+  },
+  {
+    "is_number": "IS 516:2014",
+    "title": "Hardened Concrete - Methods of Test",
+    "category": "Construction",
+    "sub_category": "Concrete",
+    "scope": "This standard specifies methods of testing hardened concrete for compressive strength, flexural strength, split tensile strength, and modulus of elasticity. It covers preparation of test specimens, curing, and testing procedures. This standard is intended for the quality control of concrete in construction projects. It supersedes earlier editions and aligns with international testing practice.",
+    "specifications": {
+      "sample_size_cm": "15",
+      "curing_days": "28"
+    },
+    "normative_references": ["IS 456:2000", "IS 10262:2019"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2014",
+    "last_amended": "2018-03-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "Non-destructive testing section expanded"}
+    ],
+    "source_excerpt": "\"This standard specifies the methods of testing hardened concrete for compressive and flexural strength.\""
+  },
+  {
+    "is_number": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+    "category": "Construction",
+    "sub_category": "Steel Reinforcement",
+    "scope": "This standard specifies the requirements for high strength deformed steel bars and wires used as reinforcement in concrete. It covers grades Fe 415, Fe 500, and Fe 550, specifying tensile strength, yield stress, elongation, and bend test requirements. The standard specifies rib geometry requirements for bond, and limits on chemical composition. It covers bars in sizes from 6mm to 50mm nominal diameter and specifies marking and packing requirements.",
+    "specifications": {
+      "grade": "Fe 500",
+      "yield_strength_mpa": "500",
+      "elongation_percent": "12",
+      "diameter_mm": "12"
+    },
+    "normative_references": ["IS 456:2000"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2023-06-01",
+    "version": "2008",
+    "last_amended": "2019-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2011", "description": "Fe 550 grade incorporated"},
+      {"amendment_number": "Amendment 2", "date": "2019", "description": "Chemical composition limits revised"}
+    ],
+    "source_excerpt": "\"This standard specifies the requirements for high strength deformed steel bars and wires for concrete reinforcement.\""
+  },
+  {
+    "is_number": "IS 800:2007",
+    "title": "General Construction in Steel - Code of Practice",
+    "category": "Construction",
+    "sub_category": "Steel Structures",
+    "scope": "This standard covers the general design and construction requirements for structural steel work in buildings and other structures. It specifies design methods including limit state design, member and connection design, fabrication, erection, and protection against corrosion. The standard covers rolled steel sections, plates, and built-up members. It is intended for designers and fabricators of steel structures.",
+    "specifications": {
+      "grade": "Fe 410",
+      "yield_strength_mpa": "250"
+    },
+    "normative_references": ["IS 2062:2011", "IS 875(Part 1):1987"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2007",
+    "last_amended": "2019-09-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Hollow section design examples added"}
+    ],
+    "source_excerpt": "\"This standard provides the general requirements for the design and construction of structural steel work.\""
+  },
+  {
+    "is_number": "IS 2062:2011",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel - Specification",
+    "category": "Construction",
+    "sub_category": "Steel Structures",
+    "scope": "This standard specifies the requirements for hot rolled medium and high tensile structural steel used in general engineering and structural purposes. It covers grades E250, E275, E350, and E410, specifying mechanical properties, chemical composition, and tolerances. The standard specifies the requirements for plates, strips, bars, and sections. It includes requirements for welding quality and surface finish.",
+    "specifications": {
+      "grade": "E250",
+      "yield_strength_mpa": "250",
+      "tensile_strength_mpa": "410"
+    },
+    "normative_references": ["IS 800:2007"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2023-01-01",
+    "version": "2011",
+    "last_amended": "2018-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "Tolerances updated"}
+    ],
+    "source_excerpt": "\"This standard specifies the requirements for hot rolled medium and high tensile structural steel.\""
+  },
+  {
+    "is_number": "IS 875(Part 1):1987",
+    "title": "Code of Practice for Design Loads (Other Than Earthquake) for Buildings and Structures - Dead Loads",
+    "category": "Construction",
+    "sub_category": "Structural Design",
+    "scope": "This standard specifies the unit weights of materials and components used to calculate dead loads in the design of buildings and structures. It provides the weights of building materials, partitions, finishes, and permanent fixtures. The standard is intended for use in structural design calculations for permanent static loads. It forms part of the multi-part IS 875 code covering different load types.",
+    "specifications": {
+      "unit_weight_concrete_knm3": "25",
+      "unit_weight_steel_knm3": "78.5"
+    },
+    "normative_references": ["IS 800:2007", "IS 456:2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1987",
+    "last_amended": "2003-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2003", "description": "Material weights updated"}
+    ],
+    "source_excerpt": "\"This standard provides the unit weights of materials for computing dead loads in structural design.\""
+  },
+  {
+    "is_number": "IS 1905:1987",
+    "title": "Structural Use of Unreinforced Masonry - Code of Practice",
+    "category": "Construction",
+    "sub_category": "Masonry",
+    "scope": "This standard specifies the design and construction requirements for unreinforced masonry walls and columns made of bricks, blocks, and stones. It covers the assessment of compressive strength of masonry, design of walls for axial and lateral loads, and requirements for openings and ties. The standard specifies material requirements and workmanship for satisfactory masonry construction.",
+    "specifications": {
+      "mortar_grade": "M1",
+      "minimum_wall_thickness_mm": "200"
+    },
+    "normative_references": ["IS 1077:1992"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1987",
+    "last_amended": "2004-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2004", "description": "Reinforced masonry section revised"}
+    ],
+    "source_excerpt": "\"This standard deals with the structural use of unreinforced masonry walls and columns.\""
+  },
+  {
+    "is_number": "IS 1077:1992",
+    "title": "Common Burnt Clay Building Bricks - Specification",
+    "category": "Construction",
+    "sub_category": "Masonry",
+    "scope": "This standard specifies the requirements for common burnt clay building bricks used in masonry construction. It covers classification of bricks into classes based on compressive strength, requirements for dimensions, water absorption, and efflorescence. The standard specifies typical compressive strength classes from 3.5 MPa to 35 MPa. It covers sampling, testing, and marking requirements.",
+    "specifications": {
+      "compressive_strength_mpa": "3.5",
+      "water_absorption_percent": "20",
+      "size_mm": "230"
+    },
+    "normative_references": ["IS 1905:1987"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1992",
+    "last_amended": "2008-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2008", "description": "Tolerance and finish clauses updated"}
+    ],
+    "source_excerpt": "\"This standard specifies the requirements for common burnt clay building bricks.\""
+  },
+  {
+    "is_number": "IS 3495:1992",
+    "title": "Methods of Tests of Burnt Clay Building Bricks",
+    "category": "Construction",
+    "sub_category": "Masonry",
+    "scope": "This standard specifies the methods of physical tests for burnt clay building bricks. It covers test methods for compressive strength, water absorption, efflorescence, and dimensions. This standard is used in conjunction with IS 1077 for quality assurance of bricks. The procedures described enable consistent evaluation of brick quality for construction purposes.",
+    "specifications": {
+      "test_standard": "Compressive strength, water absorption, efflorescence"
+    },
+    "normative_references": ["IS 1077:1992"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1992",
+    "last_amended": "2004-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2004", "description": "Test procedures clarified"}
+    ],
+    "source_excerpt": "\"This standard prescribes the methods of tests of burnt clay building bricks.\""
+  },
+  {
+    "is_number": "IS 650:1991",
+    "title": "Standard Sand for Testing Cement - Specification",
+    "category": "Construction",
+    "sub_category": "Cement and Binders",
+    "scope": "This standard specifies the requirements for the standard sand used for testing the strength of cement. The sand is used in the preparation of mortar cubes for compressive strength determination. This standard specifies the grading, purity, and silica content of standard sand. It forms an integral part of cement testing as per IS 4031.",
+    "specifications": {
+      "sand_grade": "Standard sand",
+      "silica_content_percent": "98"
+    },
+    "normative_references": ["IS 4031:2014", "IS 269:2015"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1991",
+    "last_amended": "2000-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2000", "description": "Grading revised"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for standard sand used in testing the strength of cement.\""
+  },
+  {
+    "is_number": "IS 4031:2014",
+    "title": "Methods of Physical Tests for Hydraulic Cement",
+    "category": "Construction",
+    "sub_category": "Cement and Binders",
+    "scope": "This standard specifies the methods for physical testing of hydraulic cement, including fineness by sieving and air permeability, setting time by Vicat apparatus, and compressive strength. It defines the procedures for determining the soundness and consistency of cement. The standard is used for quality control verification of cement manufactured or used in India.",
+    "specifications": {
+      "test_methods": "Fineness, setting time, soundness, compressive strength"
+    },
+    "normative_references": ["IS 650:1991", "IS 269:2015"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2014",
+    "last_amended": "2018-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "Vicat apparatus requirement clarified"}
+    ],
+    "source_excerpt": "\"Methods of physical tests for hydraulic cement, including fineness, setting time and compressive strength.\""
+  },
+  {
+    "is_number": "IS 16102(Part 1):2012",
+    "title": "Self-Ballasted LED Lamps for General Lighting Services - Safety Requirements",
+    "category": "Electrical",
+    "sub_category": "Lighting",
+    "scope": "This standard specifies the safety requirements for single-capped self-ballasted LED lamps with rated wattage up to 60W, intended for general lighting services on AC supplies up to 250V. It covers requirements for protection against electric shock, temperature, and mechanical strength. The standard specifies testing requirements for thermal protection and marking. It aligns with corresponding IEC standards.",
+    "specifications": {
+      "max_wattage_w": "60",
+      "max_voltage_v": "250",
+      "ip_rating": "IP20"
+    },
+    "normative_references": ["IS 10322(Part 5/Sec 4):2018", "IS 15885(Part 2/Sec 13):2017", "IS 13021:1991"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2021-12-01",
+    "version": "2012",
+    "last_amended": "2021-06-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2017", "description": "Marking requirements updated"},
+      {"amendment_number": "Amendment 2", "date": "2021", "description": "Thermal protection clause revised"}
+    ],
+    "source_excerpt": "\"This standard specifies the safety requirements for self-ballasted LED lamps with rated wattage up to 60 W.\""
+  },
+  {
+    "is_number": "IS 10322(Part 5/Sec 4):2018",
+    "title": "Luminaires - Particular Requirements - Road and Street Lighting Luminaires",
+    "category": "Electrical",
+    "sub_category": "Lighting",
+    "scope": "This standard covers the safety and performance requirements for luminaires intended for road, street, and outdoor lighting applications, including LED-based systems. It specifies requirements for protection against electric shock, dust and moisture ingress (IP rating), and mechanical robustness. The standard applies to luminaires rated for installation in outdoor and road applications. It specifies the IP rating and IK impact rating requirements.",
+    "specifications": {
+      "max_wattage_w": "250",
+      "ip_rating": "IP65",
+      "protection_class": "Class I"
+    },
+    "normative_references": ["IS 10322(Part 1):2012", "IS 16102(Part 1):2012", "IS 13021:1991"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2022-01-01",
+    "version": "2018",
+    "last_amended": "2022-03-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "IP rating test methods updated"}
+    ],
+    "source_excerpt": "\"Covers the safety and performance requirements for luminaires for road and street lighting, including LED systems rated up to 250 W with minimum IP65 protection.\""
+  },
+  {
+    "is_number": "IS 10322(Part 1):2012",
+    "title": "Luminaires - General Requirements and Tests",
+    "category": "Electrical",
+    "sub_category": "Lighting",
+    "scope": "This standard specifies the general safety and test requirements applicable to all luminaires. It covers classification of luminaires, general test conditions, construction requirements, external and internal wiring, and provision for earthing. The standard provides the foundational requirements that product-specific luminaire standards build upon. It specifies the requirements for protection against electric shock and abnormal operation.",
+    "specifications": {
+      "protection_class": "Class I",
+      "ip_rating": "IP20"
+    },
+    "normative_references": ["IS 10322(Part 5/Sec 4):2018"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2022-01-01",
+    "version": "2012",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "General test conditions updated"}
+    ],
+    "source_excerpt": "\"Specifies the general safety and test requirements applicable to all luminaires.\""
+  },
+  {
+    "is_number": "IS 302(Part 1):2008",
+    "title": "Safety of Household and Similar Electrical Appliances - General Requirements",
+    "category": "Electrical",
+    "sub_category": "General Appliances",
+    "scope": "This standard specifies the general safety requirements for household and similar electrical appliances. It covers protection against electric shock, heating, abnormal operation, and mechanical hazards. The standard establishes the general provisions which are used as the basis for particular requirements of individual appliance types. It aligns with IEC 60335-1 and specifies requirements for insulation, wiring, and marking.",
+    "specifications": {
+      "rated_voltage_v": "230",
+      "frequency_hz": "50",
+      "protection_class": "Class I"
+    },
+    "normative_references": ["IS 3854:1997", "IS 3851:2000"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-03-01",
+    "version": "2008",
+    "last_amended": "2024-01-15",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2010", "description": "New appliance categories added"},
+      {"amendment_number": "Amendment 2", "date": "2015", "description": "Insulation class requirements revised"},
+      {"amendment_number": "Amendment 3", "date": "2024", "description": "Household electrical QCO alignment"}
+    ],
+    "source_excerpt": "\"Specifies the general safety requirements for household and similar electrical appliances.\""
+  },
+  {
+    "is_number": "IS 3854:1997",
+    "title": "Switches for Domestic and Similar Purposes - Specification",
+    "category": "Electrical",
+    "sub_category": "Switching Devices",
+    "scope": "This standard specifies the requirements for manually operated switches for domestic and similar purposes, including operation at a rated voltage of 250V. It covers requirements for both single-pole and double-pole switches used in household and commercial installations. The standard specifies requirements for construction, mechanical strength, and electrical performance. It covers toggle and rocker type switches.",
+    "specifications": {
+      "rated_voltage_v": "250",
+      "rated_current_a": "16"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2025-06-01",
+    "version": "1997",
+    "last_amended": "2010-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2010", "description": "Marking requirements aligned with IS 302"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for manually operated switches for domestic and similar purposes at 250 V.\""
+  },
+  {
+    "is_number": "IS 3851:2000",
+    "title": "Electrical Wiring Accessories - Specification",
+    "category": "Electrical",
+    "sub_category": "Wiring Accessories",
+    "scope": "This standard specifies the requirements for electrical wiring accessories including sockets, plugs, socket-outlets, and adaptors for domestic use. It covers the general and particular requirements for these accessories operating at 250V. The standard specifies mechanical, electrical, and thermal requirements. It includes requirements for plug and socket pin dimensions and terminations.",
+    "specifications": {
+      "rated_voltage_v": "250",
+      "rated_current_a": "6"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2025-06-01",
+    "version": "2000",
+    "last_amended": "2012-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2012", "description": "Dimensions updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for electrical wiring accessories including sockets and plugs at 250 V.\""
+  },
+  {
+    "is_number": "IS 694:2010",
+    "title": "PVC Insulated Cables for Working Voltages up to and Including 1100V - Specification",
+    "category": "Electrical",
+    "sub_category": "Cables and Conductors",
+    "scope": "This standard specifies the requirements for PVC insulated cables for working voltages up to and including 1100V. It covers single-core and multi-core cables with copper or aluminium conductors for general wiring and industrial applications. The standard specifies conductor requirements, insulation thickness, and mechanical and electrical performance. It includes requirements for flame retardancy and working temperature.",
+    "specifications": {
+      "max_voltage_v": "1100",
+      "conductor": "Copper/Aluminium",
+      "insulation": "PVC"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2025-09-20",
+    "version": "2010",
+    "last_amended": "2017-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2017", "description": "Flame retardant PVC added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for PVC insulated cables for working voltages up to and including 1100 V.\""
+  },
+  {
+    "is_number": "IS 13021:1991",
+    "title": "Self-Ballasted Lamps for General Lighting Services - Safety Requirements",
+    "category": "Electrical",
+    "sub_category": "Lighting",
+    "scope": "This standard specifies the safety requirements for self-ballasted lamps, including compact fluorescent and LED retrofit lamps, for general lighting services. It covers requirements for electric shock protection, thermal safety, and mechanical safety. The standard specifies testing procedures for endurance and lamp cap temperature rise.",
+    "specifications": {
+      "max_wattage_w": "60",
+      "max_voltage_v": "250"
+    },
+    "normative_references": ["IS 16102(Part 1):2012", "IS 10322(Part 5/Sec 4):2018"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2021-12-01",
+    "version": "1991",
+    "last_amended": "2015-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2015", "description": "LED retrofit provisions added"}
+    ],
+    "source_excerpt": "\"Specifies the safety requirements for self-ballasted lamps for general lighting services.\""
+  },
+  {
+    "is_number": "IS 15885(Part 2/Sec 13):2017",
+    "title": "Lamp Controlgear - Particular Requirements - DC or AC Supplied Electronic Controlgear for LED Modules",
+    "category": "Electrical",
+    "sub_category": "Lighting",
+    "scope": "This standard specifies the safety requirements for electronic controlgear supplied by DC or AC and designed for LED modules. It covers requirements for protection against electric shock, abnormal operation, and temperature limits. The standard specifies the testing requirements for the controlgear used in LED lighting systems. It aligns with IEC 61347-2-13.",
+    "specifications": {
+      "max_voltage_v": "250",
+      "output_type": "Constant current"
+    },
+    "normative_references": ["IS 16102(Part 1):2012"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2021-12-01",
+    "version": "2017",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Test requirements updated"}
+    ],
+    "source_excerpt": "\"Specifies the safety requirements for electronic controlgear for LED modules.\""
+  },
+  {
+    "is_number": "IS 1293:2019",
+    "title": "Plugs and Socket-Outlets of Rated Voltage up to and Including 250V - Specification",
+    "category": "Electrical",
+    "sub_category": "Wiring Accessories",
+    "scope": "This standard specifies the requirements for plugs and socket-outlets of rated voltage up to and including 250V and rated current up to 16A for domestic and similar purposes. It covers construction, dimensions, and electrical requirements including protection against electric shock. The standard specifies temperature rise limits and mechanical endurance requirements.",
+    "specifications": {
+      "rated_voltage_v": "250",
+      "rated_current_a": "16"
+    },
+    "normative_references": ["IS 3851:2000", "IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2024-01-01",
+    "version": "2019",
+    "last_amended": "2022-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "Dimension clarifications"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for plugs and socket-outlets of rated voltage up to 250 V.\""
+  },
+  {
+    "is_number": "IS 172(Part 1):2013",
+    "title": "Textile Machinery - Safety Requirements - Common Requirements",
+    "category": "Textiles",
+    "sub_category": "Textile Machinery",
+    "scope": "This standard specifies the common safety requirements for textile machinery to safeguard operators from mechanical and electrical hazards. It covers design principles for risk reduction, requirements for guards and protective devices, and control system safety. The standard specifies ergonomic and hygiene requirements for textile machinery. It applies across various categories of textile processing machinery.",
+    "specifications": {
+      "safety_category": "Common requirements",
+      "guarding": "Required"
+    },
+    "normative_references": ["IS 1216:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2013",
+    "last_amended": "2018-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "Guard requirements updated"}
+    ],
+    "source_excerpt": "\"Specifies the common safety requirements for textile machinery.\""
+  },
+  {
+    "is_number": "IS 1216:2021",
+    "title": "Textiles - Cotton Yarn - Specification",
+    "category": "Textiles",
+    "sub_category": "Yarn",
+    "scope": "This standard specifies the requirements for cotton yarn used in weaving and knitting. It covers single and folded cotton yarns, specifying count, twist, strength, and evenness requirements. The standard specifies grading of cotton yarn based on quality parameters. It includes requirements for the appearance and finish of the yarn as well as testing methods.",
+    "specifications": {
+      "yarn_count": "40",
+      "strength_cn_tex": "15"
+    },
+    "normative_references": ["IS 172(Part 1):2013"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2021",
+    "last_amended": "2022-06-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "Testing method references updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for cotton yarn used in weaving and knitting.\""
+  },
+  {
+    "is_number": "IS 10092:2003",
+    "title": "Textiles - Cellular Shade Cloth - Specification",
+    "category": "Textiles",
+    "sub_category": "Technical Textiles",
+    "scope": "This standard specifies the requirements for cellular shade cloth, a technical textile used for shading applications in horticulture and agriculture. It specifies the shading factor, dimensional stability, and mechanical properties of the cloth. The standard defines the various shading percentages available. It specifies the material requirements and test methods for evaluation.",
+    "specifications": {
+      "shading_percent": "75",
+      "width_cm": "200"
+    },
+    "normative_references": ["IS 1216:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2003",
+    "last_amended": "2010-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2010", "description": "UV resistance requirement added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for cellular shade cloth used for shading applications.\""
+  },
+  {
+    "is_number": "IS 271:2005",
+    "title": "Textiles - Cotton Grey Sheeting - Specification",
+    "category": "Textiles",
+    "sub_category": "Fabrics",
+    "scope": "This standard specifies the requirements for cotton grey sheeting, a plain woven cotton fabric used for clothing and industrial purposes. It covers requirements for the ends and picks per centimetre, mass per square metre, and breaking strength. The standard specifies the quality grading of the fabric and the testing methods. It applies to loom-state grey cotton fabrics.",
+    "specifications": {
+      "gsm": "200",
+      "width_cm": "112"
+    },
+    "normative_references": ["IS 1216:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2005",
+    "last_amended": "2012-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2012", "description": "Tolerances updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for cotton grey sheeting fabric.\""
+  },
+  {
+    "is_number": "IS 17598:2021",
+    "title": "Textiles - Face Masks for Protection Against Harmful Biological Agents - Specification",
+    "category": "Textiles",
+    "sub_category": "Protective Textiles",
+    "scope": "This standard specifies the performance requirements for textile-based face masks intended for protection against biological agents such as bacteria and viruses. It specifies requirements for filtration efficiency, breathability (differential pressure), bacterial filtration efficiency, and splash resistance. The standard covers both flat-fold and cup-shaped masks and specifies the marking and labeling requirements.",
+    "specifications": {
+      "bfe_percent": "95",
+      "differential_pressure_pa_cm2": "150"
+    },
+    "normative_references": ["IS 1216:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2021",
+    "last_amended": "2021-12-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Testing methods clarified"}
+    ],
+    "source_excerpt": "\"Specifies the performance requirements for textile-based face masks for protection against biological agents.\""
+  },
+  {
+    "is_number": "IS 2347:2018",
+    "title": "Pressure Cookers for Domestic Use - Specification",
+    "category": "Household Appliances",
+    "sub_category": "Cookware",
+    "scope": "This standard specifies the requirements for pressure cookers for domestic use, covering safety and performance requirements. It specifies requirements related to the body, lid, gasket, pressure control valve, and safety valve assembly. The standard covers both aluminium and stainless steel pressure cookers. It includes requirements for dimensions, capacity, and marking.",
+    "specifications": {
+      "capacity_l": "5",
+      "material": "Aluminium/Stainless Steel",
+      "max_pressure_bar": "1.1"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2023-01-01",
+    "version": "2018",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Safety valve requirements updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for pressure cookers for domestic use, including safety and performance.\""
+  },
+  {
+    "is_number": "IS 302(Part 2/Sec 15):2017",
+    "title": "Safety of Household and Similar Electrical Appliances - Particular Requirements for Kitchen Machines",
+    "category": "Household Appliances",
+    "sub_category": "Kitchen Appliances",
+    "scope": "This standard specifies the particular safety requirements for kitchen machines including food processors, mixers, blenders, and similar appliances. It supplements the general requirements of IS 302 Part 1. The standard specifies requirements for the particular hazards associated with rotating components and blades. It includes requirements for the protection against mechanical hazards during operation.",
+    "specifications": {
+      "rated_voltage_v": "230",
+      "frequency_hz": "50"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-03-01",
+    "version": "2017",
+    "last_amended": "2024-01-15",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2024", "description": "Household appliance QCO alignment"}
+    ],
+    "source_excerpt": "\"Specifies the particular safety requirements for kitchen machines including mixers and blenders.\""
+  },
+  {
+    "is_number": "IS 1476:2020",
+    "title": "Electric Immersion Water Heaters - Specification",
+    "category": "Household Appliances",
+    "sub_category": "Water Heaters",
+    "scope": "This standard specifies the requirements for electric immersion water heaters for domestic and similar purposes. It covers both rod-type and mantle-type immersion heaters, specifying the power rating, thermal performance, and electrical safety requirements. The standard includes requirements for construction, insulation resistance, and earth continuity. It specifies marking and safety requirements for use in water heating applications.",
+    "specifications": {
+      "power_w": "2000",
+      "rated_voltage_v": "230"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2025-06-01",
+    "version": "2020",
+    "last_amended": "2023-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2023", "description": "Thermal cutout requirement added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for electric immersion water heaters for domestic use.\""
+  },
+  {
+    "is_number": "IS 8979:2021",
+    "title": "Safety of Household Appliances - Cotton Cloth Wringers - Specification",
+    "category": "Household Appliances",
+    "sub_category": "Laundry Appliances",
+    "scope": "This standard specifies the safety requirements for cotton cloth wringers used in the home. It covers requirements for the rollers, gearing, and the mechanism that could present a safety hazard. This standard aims to prevent injury during the operation of wringers. It specifies the test methods for verification of safety.",
+    "specifications": {
+      "material": "Steel/Cast iron",
+      "roller_width_mm": "230"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2021",
+    "last_amended": "2022-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "Guard requirement clarified"}
+    ],
+    "source_excerpt": "\"Specifies the safety requirements for cotton cloth wringers used in the home.\""
+  },
+  {
+    "is_number": "IS 15123:2002",
+    "title": "Domestic Electric Food Mixers (Liquidizers, Grinders, Choppers) - Specification",
+    "category": "Household Appliances",
+    "sub_category": "Kitchen Appliances",
+    "scope": "This standard specifies the requirements for domestic electric food mixers including liquidizers, grinders, and choppers. It covers power rating, construction, safety, and performance requirements for these household appliances. The standard specifies requirements for the blades, jars, and motor. It includes safety requirements aligned with IS 302 and specifies the testing methods.",
+    "specifications": {
+      "power_w": "750",
+      "rated_voltage_v": "230",
+      "frequency_hz": "50"
+    },
+    "normative_references": ["IS 302(Part 1):2008"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-03-01",
+    "version": "2002",
+    "last_amended": "2010-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2010", "description": "New mixer models covered"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for domestic electric food mixers including liquidizers and grinders.\""
+  },
+  {
+    "is_number": "IS 14722(Part 1):2000",
+    "title": "Food Safety - General Principles for Food Premises and Handling - Code of Practice",
+    "category": "Food Safety",
+    "sub_category": "Food Handling",
+    "scope": "This standard establishes general principles of food hygiene applicable throughout the food chain, from primary production to the consumer. It specifies requirements for the design and construction of food premises, including requirement for sanitary facilities, ventilation, and lighting. The standard covers personnel hygiene, cleaning procedures, and control of pests. This code of practice forms the basis for hygienic food handling and production.",
+    "specifications": {
+      "acceptable_contaminant_mg_kg": "0.1"
+    },
+    "normative_references": ["IS 10500:2012"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2000",
+    "last_amended": "2015-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2015", "description": "HACCP principles incorporated"}
+    ],
+    "source_excerpt": "\"Establishes general principles of food hygiene applicable throughout the food chain.\""
+  },
+  {
+    "is_number": "IS 10500:2012",
+    "title": "Drinking Water - Specification (Second Revision)",
+    "category": "Food Safety",
+    "sub_category": "Water Quality",
+    "scope": "This standard specifies the acceptable limits and permissible limits for physical, chemical, and bacteriological contaminants in drinking water. It covers parameters such as pH, total dissolved solids, hardness, chlorides, sulphates, and toxic substances. The standard distinguishes between acceptable and permissible limits for over 40 water quality parameters. It is used to assess the suitability of water for drinking purposes.",
+    "specifications": {
+      "ph": "7.5",
+      "tds_mg_l": "500",
+      "total_hardness_mg_l": "200"
+    },
+    "normative_references": ["IS 14722(Part 1):2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2012",
+    "last_amended": "2017-05-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2017", "description": "Fluoride limit clarification"}
+    ],
+    "source_excerpt": "\"Specifies acceptable and permissible limits for physical, chemical and bacteriological contaminants in drinking water.\""
+  },
+  {
+    "is_number": "IS 5340:2005",
+    "title": "Groundnut Oil - Specification",
+    "category": "Food Safety",
+    "sub_category": "Edible Oils",
+    "scope": "This standard specifies the requirements for groundnut (peanut) oil intended for human consumption and general use. It covers the physical and chemical requirements including free fatty acid content, colour, and specific gravity. The standard declares the moisture content, insoluble impurities, and peroxide value limits. It specifies methods of sampling and testing for the edible oil.",
+    "specifications": {
+      "moisture_content_percent": "0.1",
+      "ffa_percent": "0.5",
+      "peroxide_value_meq_kg": "10"
+    },
+    "normative_references": ["IS 10500:2012"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2005",
+    "last_amended": "2013-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2013", "description": "FFA limits revised"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for groundnut oil intended for human consumption.\""
+  },
+  {
+    "is_number": "IS 1661:2018",
+    "title": "Milk and Milk Products - Determination of Fat Content - Gerber Method",
+    "category": "Food Safety",
+    "sub_category": "Dairy Testing",
+    "scope": "This standard specifies the method for the determination of the fat content of milk and milk products using the Gerber method. It describes the butyrometric method for fat determination in milk, cream, and related products. The standard specifies the reagents, apparatus, and procedure for accurate fat measurement. This method is widely used in dairy quality control laboratories.",
+    "specifications": {
+      "method": "Gerber butyrometric",
+      "fat_range_percent": "0-40"
+    },
+    "normative_references": ["IS 14722(Part 1):2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2018",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Apparatus specification updated"}
+    ],
+    "source_excerpt": "\"Specifies the method for determination of fat content of milk by the Gerber method.\""
+  },
+  {
+    "is_number": "IS 1656:2007",
+    "title": "Maida (Wheat Flour) - Specification",
+    "category": "Food Safety",
+    "sub_category": "Cereal Products",
+    "scope": "This standard specifies the requirements for maida (refined wheat flour) intended for human consumption. It covers the physical and chemical requirements including moisture, ash, gluten, and acidity. The standard specifies the limits for crude fibre, protein content, and the presence of impurities. It includes methods of sampling and testing along with packaging requirements.",
+    "specifications": {
+      "moisture_percent": "14",
+      "ash_content_percent": "1",
+      "protein_percent": "10"
+    },
+    "normative_references": ["IS 14722(Part 1):2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2007",
+    "last_amended": "2015-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2015", "description": "Moisture limit revised"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for maida (refined wheat flour) for human consumption.\""
+  },
+  {
+    "is_number": "IS 3612:2019",
+    "title": "Food Safety - Kitchen Equipments and Utensils - Materials in Contact with Food - Specification",
+    "category": "Food Safety",
+    "sub_category": "Food Contact Materials",
+    "scope": "This standard specifies the requirements for materials used in kitchen equipment and utensils that come into contact with food. It covers metallic, plastic, and ceramic materials, specifying limits on migration of harmful substances. The standard specifies the permissible limits for heavy metal migration from food contact materials. It is used to ensure the safety of utensils used in food preparation and storage.",
+    "specifications": {
+      "heavy_metal_migration_ppm": "2",
+      "material_type": "Food grade"
+    },
+    "normative_references": ["IS 14722(Part 1):2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2019",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Plastic migration limits updated"}
+    ],
+    "source_excerpt": "\"Specifies requirements for materials used in contact with food for kitchen equipment and utensils.\""
+  },
+  {
+    "is_number": "IS 12795:2005",
+    "title": "Sodium Tripolyphosphate (STPP) - Specification",
+    "category": "Chemicals",
+    "sub_category": "Industrial Chemicals",
+    "scope": "This standard specifies the requirements for sodium tripolyphosphate (STPP), a chemical used in detergent and water treatment applications. It specifies the chemical composition, including the percentage of phosphorus pentoxide and the degree of polymerization. The standard specifies physical requirements including pH of solution and solubility. It covers methods of sampling and testing for the industrial chemical.",
+    "specifications": {
+      "p2o5_percent": "57",
+      "ph": "9.5",
+      "assay_percent": "95"
+    },
+    "normative_references": ["IS 382:2016"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-03-01",
+    "version": "2005",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Assay requirement aligned with QCO"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for sodium tripolyphosphate used in detergents and water treatment.\""
+  },
+  {
+    "is_number": "IS 6100:2019",
+    "title": "Linear Alkyl Benzene Sulphonic Acid (LABSA) - Specification",
+    "category": "Chemicals",
+    "sub_category": "Industrial Chemicals",
+    "scope": "This standard specifies the requirements for linear alkyl benzene sulphonic acid (LABSA), a key intermediate in detergent manufacturing. The standard covers the active matter content, free acidity, colour, and physical form. For the liquid form, requirements cover moisture and free sulphuric acid content. It specifies methods of sampling and testing for the industrial chemical intermediate.",
+    "specifications": {
+      "active_matter_percent": "96",
+      "free_sulphuric_acid_percent": "1.5",
+      "colour": "Light brown"
+    },
+    "normative_references": ["IS 12795:2005"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-03-01",
+    "version": "2019",
+    "last_amended": "2022-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "Active matter limit updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for linear alkyl benzene sulphonic acid used in detergents.\""
+  },
+  {
+    "is_number": "IS 382:2016",
+    "title": "Sulphuric Acid - Specification",
+    "category": "Chemicals",
+    "sub_category": "Industrial Chemicals",
+    "scope": "This standard specifies the requirements for sulphuric acid used in various industrial applications. It covers the different commercial grades of sulphuric acid, specifying the percentage concentration and permissible impurities. The standard specifies methods of sampling and testing, including determination of concentration by density. It prescribes requirements for storage and safe handling.",
+    "specifications": {
+      "concentration_percent": "98",
+      "iron_content_ppm": "50"
+    },
+    "normative_references": ["IS 12795:2005"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2016",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Grade classification updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for sulphuric acid of various commercial grades.\""
+  },
+  {
+    "is_number": "IS 1060:2013",
+    "title": "Sulphate Resisting Portland Cement - Specification",
+    "category": "Construction",
+    "sub_category": "Cement and Binders",
+    "scope": "This standard specifies the requirements for sulphate resisting Portland cement used in marine and aggressive sulphate environments. It covers the chemical requirements, particularly the limiting tricalcium aluminate (C3A) content, and physical requirements. The standard specifies compressive strength and setting time requirements for this special cement type. It is intended for foundations, marine structures, and drainage works.",
+    "specifications": {
+      "min_compressive_strength_mpa": "43",
+      "c3a_limit_percent": "5"
+    },
+    "normative_references": ["IS 269:2015", "IS 4031:2014"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2013",
+    "last_amended": "2018-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "C3A limit clarified"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for sulphate resisting Portland cement.\""
+  },
+  {
+    "is_number": "IS 4985:2015",
+    "title": "Unplasticized PVC Pipes for Potable Water Supplies - Specification",
+    "category": "Packaging",
+    "sub_category": "Pipes",
+    "scope": "This standard specifies the requirements for unplasticized polyvinyl chloride (PVC-U) pipes for potable water supply. It covers pipes with nominal diameters ranging from 20mm to 315mm, classified by working pressure ratings. The standard specifies requirements for wall thickness, tensile strength, and resistance to internal hydrostatic pressure. It includes methods for sampling and testing the pipes.",
+    "specifications": {
+      "diameter_mm": "110",
+      "pressure_class_kg_cm2": "10",
+      "wall_thickness_mm": "4.2"
+    },
+    "normative_references": ["IS 10500:2012"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2015",
+    "last_amended": "2019-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Pressure class nomenclature updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for unplasticized PVC pipes for potable water supplies.\""
+  },
+  {
+    "is_number": "IS 15558:2005",
+    "title": "Packs for Packaged Drinking Water (Other Than Packaged Natural Mineral Water) - Specification",
+    "category": "Packaging",
+    "sub_category": "Food Packaging",
+    "scope": "This standard specifies the requirements for packaging used for packaged drinking water. It covers the material requirements for bottles, caps, and seals used in the packaging of drinking water. The standard specifies the requirements for the plastic material and its compliance with food contact safety. This standard is used to ensure the integrity and safety of packaged water containers.",
+    "specifications": {
+      "material": "PET",
+      "capacity_l": "1"
+    },
+    "normative_references": ["IS 10500:2012"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2005",
+    "last_amended": "2013-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2013", "description": "PET material requirements updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for packs used for packaged drinking water.\""
+  },
+  {
+    "is_number": "IS 15914:2016",
+    "title": "Corrugated Fibreboard Boxes - Specification",
+    "category": "Packaging",
+    "sub_category": "Corrugated Packaging",
+    "scope": "This standard specifies the requirements for corrugated fibreboard boxes used in general packaging applications. It covers the different flute types and board grades, specifying the bursting strength, compression strength, and grammage requirements. The standard includes requirements for the dimensions, construction, and jointing of the boxes. It specifies methods for testing the boxes and marking requirements.",
+    "specifications": {
+      "bursting_strength_kg_cm2": "14",
+      "grammage_gsm": "400",
+      "edge_crush_kn_m": "8"
+    },
+    "normative_references": ["IS 15914:2016", "IS 15558:2005"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2016",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Compression test method updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for corrugated fibreboard boxes for general packaging.\""
+  },
+  {
+    "is_number": "IS 2408:2011",
+    "title": "Jute Bags for Packing Wool - Specification",
+    "category": "Packaging",
+    "sub_category": "Sacks and Bags",
+    "scope": "This standard specifies the requirements for jute bags used for packing wool. It covers the dimensions, construction, and quality of the jute fabric used in making the bags. The standard specifies the mass per unit area and breaking load requirements for the fabric. It includes requirements for stitching and the overall strength of the bags.",
+    "specifications": {
+      "gsm": "610",
+      "length_cm": "100"
+    },
+    "normative_references": ["IS 1216:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2011",
+    "last_amended": "2018-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2018", "description": "Fabric grading clarified"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for jute bags used for packing wool.\""
+  },
+  {
+    "is_number": "IS 6611:2013",
+    "title": "Packaging Material - Paper and Board - Preparation of Water Extracts - Test Method",
+    "category": "Packaging",
+    "sub_category": "Packaging Materials",
+    "scope": "This standard specifies the test method for the preparation of water extracts from paper and board packaging material. It is used to evaluate the cleanliness and suitability of paper-based packaging for contact with food. The method describes the procedure for extracting water-soluble components from the packaging. This test is important for the safety assessment of food contact paper.",
+    "specifications": {
+      "test_method": "Water extraction",
+      "extract_time_min": "30"
+    },
+    "normative_references": ["IS 15914:2016"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2013",
+    "last_amended": "2019-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Extraction procedure revised"}
+    ],
+    "source_excerpt": "\"Specifies the method for the preparation of water extracts from paper and board packaging material.\""
+  },
+  {
+    "is_number": "IS 2112:2000",
+    "title": "Automotive Vehicles - Seat Belt Assemblies - Specification",
+    "category": "Automotive Components",
+    "sub_category": "Safety Systems",
+    "scope": "This standard specifies the requirements for seat belt assemblies used in automotive vehicles. It covers the requirements for the seat belt webbing, buckles, retractors, and adjustment devices. The standard specifies the performance requirements including static strength, dynamic test requirements, and durability. It includes testing methods for the seat belt assembly.",
+    "specifications": {
+      "webbing_width_mm": "46",
+      "breaking_load_kn": "22.2"
+    },
+    "normative_references": ["IS 14090:2010"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2022-06-01",
+    "version": "2000",
+    "last_amended": "2012-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2004", "description": "Webbing requirements updated"},
+      {"amendment_number": "Amendment 2", "date": "2012", "description": "Dynamic test requirement added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for seat belt assemblies for automotive vehicles.\""
+  },
+  {
+    "is_number": "IS 14090:2010",
+    "title": "Automotive Vehicles - Anchorages for Seat Belt Assemblies - Specification",
+    "category": "Automotive Components",
+    "sub_category": "Safety Systems",
+    "scope": "This standard specifies the requirements for the anchorages for seat belt assemblies in automotive vehicles. It specifies the location, strength, and testing requirements for the seat belt anchorages. The standard requires that anchorages withstand the loads imposed during a collision. It specifies the testing procedures for verifying the strength of the anchorages.",
+    "specifications": {
+      "anchorage_force_kn": "22",
+      "locations": "Lower and upper"
+    },
+    "normative_references": ["IS 2112:2000"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2022-06-01",
+    "version": "2010",
+    "last_amended": "2015-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2015", "description": "Testing procedure updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for anchorages for seat belt assemblies in automotive vehicles.\""
+  },
+  {
+    "is_number": "IS 15633:2006",
+    "title": "Automotive Vehicles - Brake Linings - Specification",
+    "category": "Automotive Components",
+    "sub_category": "Braking Systems",
+    "scope": "This standard specifies the requirements for brake linings used in automotive vehicles. It covers the friction material requirements, including coefficient of friction and wear characteristics. The standard specifies the composition and physical characteristics of the brake lining material. It includes procedures for testing the friction and wear properties of the lining.",
+    "specifications": {
+      "coefficient_of_friction": "0.4",
+      "max_operating_temp_degc": "300"
+    },
+    "normative_references": ["IS 15633:2006"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2006",
+    "last_amended": "2014-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2014", "description": "Friction test procedure revised"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for brake linings for automotive vehicles.\""
+  },
+  {
+    "is_number": "IS 14666:1999",
+    "title": "Automotive Vehicles - Tyres and Tubes - Method of Test",
+    "category": "Automotive Components",
+    "sub_category": "Tyres",
+    "scope": "This standard specifies the methods of testing automotive tyres and tubes. It covers test methods for the physical and performance characteristics of the tyres, including strength, endurance, and high speed performance. The standard describes the test rig requirements and procedures for tyre testing. It is intended for verifying tyre quality in automotive applications.",
+    "specifications": {
+      "test_method": "Endurance and high speed",
+      "test_speed_kmph": "120"
+    },
+    "normative_references": ["IS 15633:2006"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "1999",
+    "last_amended": "2008-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2008", "description": "High speed test updated"}
+    ],
+    "source_excerpt": "\"Specifies the methods of testing for automotive tyres and tubes.\""
+  },
+  {
+    "is_number": "IS 9873(Part 1):2019",
+    "title": "Safety of Toys - Part 1: Safety Aspects Related to Mechanical and Physical Properties",
+    "category": "Household Appliances",
+    "sub_category": "Toys",
+    "scope": "This standard specifies the mechanical and physical safety requirements for all toys intended for children up to 14 years of age. It covers requirements for small parts, sharp edges and points, and the danger of suffocation due to packaging. The standard specifies age-based requirements for the design of toys to prevent injury. It includes testing methods for the evaluation of toy safety.",
+    "specifications": {
+      "age_range": "0-14 years",
+      "small_parts_test": "Required"
+    },
+    "normative_references": ["IS 9873(Part 2):2017"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2021-01-01",
+    "version": "2019",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "New hazard categories added"}
+    ],
+    "source_excerpt": "\"Specifies the mechanical and physical safety requirements for toys intended for children up to 14 years of age.\""
+  },
+  {
+    "is_number": "IS 9873(Part 2):2017",
+    "title": "Safety of Toys - Part 2: Flammability",
+    "category": "Household Appliances",
+    "sub_category": "Toys",
+    "scope": "This standard specifies the flammability requirements for all toys intended for children. It specifies the maximum burning rate and the categories of toys that must not be flammable. The standard covers the materials and textiles used in toys, requiring that they do not catch fire easily. It sets out the test methods for determining the flammability of toys.",
+    "specifications": {
+      "max_burning_rate_mm_s": "5",
+      "test_method": "Burning rate determination"
+    },
+    "normative_references": ["IS 9873(Part 1):2019"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2021-01-01",
+    "version": "2017",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Burning rate limit revised"}
+    ],
+    "source_excerpt": "\"Specifies the flammability requirements for all toys intended for children.\""
+  },
+  {
+    "is_number": "IS 14000:2015",
+    "title": "Metal Food Cans for Beverages - Specification",
+    "category": "Packaging",
+    "sub_category": "Food Packaging",
+    "scope": "This standard specifies the requirements for metal cans used for packaging carbonated and non-carbonated beverages. It covers the requirements for the can body, ends, and the internal coating that comes into contact with the beverage. The standard specifies requirements for the dimensions, capacity, and sealing integrity of the cans. It addresses the requirements for compatibility with beverage products.",
+    "specifications": {
+      "capacity_ml": "330",
+      "material": "Aluminium",
+      "lid_type": "Easy-open end"
+    },
+    "normative_references": ["IS 3612:2019", "IS 15558:2005"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-10-01",
+    "version": "2015",
+    "last_amended": "2021-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2021", "description": "Beverage can QCO alignment"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for metal cans used for packaging beverages.\""
+  },
+  {
+    "is_number": "IS 17631:2021",
+    "title": "Office Furniture - Work Chairs - Specification",
+    "category": "Household Appliances",
+    "sub_category": "Furniture",
+    "scope": "This standard specifies the requirements for work chairs used in offices and workplaces. It covers the dimensions, stability, strength, and durability requirements for office work chairs. The standard specifies the performance requirements for the seat, backrest, and swivel mechanism under load. It includes test methods for evaluating the strength and stability of the chairs.",
+    "specifications": {
+      "load_capacity_kg": "120",
+      "seat_height_range_cm": "40-55"
+    },
+    "normative_references": ["IS 9873(Part 1):2019"],
+    "is_qco_mandatory": true,
+    "qco_enforcement_date": "2026-02-01",
+    "version": "2021",
+    "last_amended": "2023-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2023", "description": "Furniture QCO enforcement"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for work chairs used in offices and workplaces.\""
+  },
+  {
+    "is_number": "IS 12062:2021",
+    "title": "Paints - Water Thinned Emulsion Paint for Interior Use - Specification",
+    "category": "Chemicals",
+    "sub_category": "Paints and Coatings",
+    "scope": "This standard specifies the requirements for water-thinned emulsion paint for interior use. It covers the physical, chemical, and performance requirements of the paint including viscosity, drying time, and washability. The standard specifies the test methods for evaluation of the paint properties. It includes requirements for the appearance, spreadability, and durability of the coating.",
+    "specifications": {
+      "viscosity_ku": "90",
+      "drying_time_h": "2",
+      "washability_cycles": "1000"
+    },
+    "normative_references": ["IS 101:2015"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2021",
+    "last_amended": "2022-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2022", "description": "VOC limit added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for water-thinned emulsion paint for interior use.\""
+  },
+  {
+    "is_number": "IS 101:2015",
+    "title": "Methods of Sampling and Test for Paints, Varnishes and Related Products",
+    "category": "Chemicals",
+    "sub_category": "Paints and Coatings",
+    "scope": "This standard specifies the methods of sampling and testing for paints, varnishes, and related products. It covers test methods for determining the physical and chemical properties of coatings including viscosity, drying time, and coverage. The standard provides standard test procedures used across the paints industry. It includes methods for preparing panels and testing films.",
+    "specifications": {
+      "test_methods": "Viscosity, drying time, coverage"
+    },
+    "normative_references": ["IS 12062:2021"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2015",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Test methods aligned with ISO"}
+    ],
+    "source_excerpt": "\"Specifies the methods of sampling and testing for paints, varnishes and related products.\""
+  },
+  {
+    "is_number": "IS 3988(Part 1):2000",
+    "title": "Motor Vehicle - Safety Glass - Specification",
+    "category": "Automotive Components",
+    "sub_category": "Glazing",
+    "scope": "This standard specifies the requirements for safety glass used in motor vehicles. It covers the optical quality, dimensional accuracy, and safety performance of the glazing. The standard specifies the requirements for laminated and toughened safety glass used in windshields and side windows. It includes test methods for the optical and mechanical properties of the glass.",
+    "specifications": {
+      "type": "Toughened",
+      "thickness_mm": "4"
+    },
+    "normative_references": ["IS 2112:2000"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2000",
+    "last_amended": "2012-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2012", "description": "Optical quality requirements updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for safety glass used in motor vehicles.\""
+  },
+  {
+    "is_number": "IS 4274:2015",
+    "title": "Marine Plywood - Specification",
+    "category": "Construction",
+    "sub_category": "Timber Products",
+    "scope": "This standard specifies the requirements for marine plywood used in boat building and other marine applications. It covers the requirements for the veneers, adhesives, and the construction of marine grade plywood. The standard specifies the requirements for bonding quality and boil-resistance of the adhesive. It includes physical property requirements such as density and dimensional tolerance.",
+    "specifications": {
+      "thickness_mm": "12",
+      "bonder_type": "Boil proof",
+      "density_kg_m3": "600"
+    },
+    "normative_references": ["IS 303:2017"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2015",
+    "last_amended": "2019-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2019", "description": "Bonding quality test updated"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for marine plywood used for boat building and marine applications.\""
+  },
+  {
+    "is_number": "IS 303:2017",
+    "title": "Plywood for General Purposes - Specification",
+    "category": "Construction",
+    "sub_category": "Timber Products",
+    "scope": "This standard specifies the requirements for plywood for general purposes. It covers the different grades of plywood based on the quality of the veneers and the type of adhesive used. The standard specifies requirements for moisture content, density, and dimensional tolerance. It includes requirements for the working properties of the plywood.",
+    "specifications": {
+      "moisture_content_percent": "14",
+      "thickness_mm": "6"
+    },
+    "normative_references": ["IS 4274:2015"],
+    "is_qco_mandatory": false,
+    "qco_enforcement_date": null,
+    "version": "2017",
+    "last_amended": "2020-01-01",
+    "amendment_history": [
+      {"amendment_number": "Amendment 1", "date": "2020", "description": "Bonding quality classes added"}
+    ],
+    "source_excerpt": "\"Specifies the requirements for plywood for general purposes.\""
+  }
+]
