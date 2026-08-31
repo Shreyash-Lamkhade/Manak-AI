@@ -976,6 +976,18 @@ app.post('/api/export/:is_number', (req, res) => {
 });
 
 
+// ── GET /api/health ──
+app.get('/api/health', (req, res) => {
+  res.json({
+    status: 'ok',
+    service: 'MANAK-AI Standards Engine',
+    standards_loaded: standards.length,
+    qco_products_loaded: qcoProducts.length,
+    timestamp: new Date().toISOString(),
+  });
+});
+
+
 // ── Serve frontend static files ──
 const distPath = path.join(__dirname, '..', 'dist');
 if (fs.existsSync(distPath)) {
